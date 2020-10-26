@@ -5,6 +5,8 @@
 mads.amazon.com
 aan.amazon.com
 www.googleadservices.com
+pixel.everesttech.net
+
 
 # This was added at the request of the developer of Diversion
 
